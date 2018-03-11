@@ -18,5 +18,5 @@ public class GameOver : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-	}
+	}//teste 
 }
